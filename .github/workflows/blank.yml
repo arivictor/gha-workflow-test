@@ -19,4 +19,4 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: arivictor/git-commit-standards@v5
+      - uses: arivictor/git-commit-standards@v6
