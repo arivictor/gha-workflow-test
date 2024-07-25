@@ -19,6 +19,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: arivictor/git-commit-standards@v3
+      - uses: arivictor/git-commit-standards@v4
         with:
           max-message-length: 20
