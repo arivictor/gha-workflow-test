@@ -25,4 +25,4 @@ jobs:
         with:
           fetch-depth: 0
           
-      - uses: arivictor/git-commit-standards@v9
+      - uses: arivictor/git-commit-standards@v10
